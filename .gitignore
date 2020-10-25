@@ -3,8 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
-UWP/
+[Aa]ssets/[Oo]penCVForUnity/
 
 # Visual Studio cache directory
 .vs/
